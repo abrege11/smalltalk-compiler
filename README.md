@@ -1,4 +1,4 @@
-# BigTalk
+# BigTalk: SmallTalk Semantic Analyzer & Code Generator — NMU CS322 Final Project Fall 2024 Semester
 
 Clone and open with [Squeak.](https://squeak.org)
 
